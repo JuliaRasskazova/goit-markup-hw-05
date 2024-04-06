@@ -685,7 +685,7 @@ border-color: #4d5ae5;
 .checkbox-hidden:checked + .agreement .agreement-checkbox {
 border-color: #404bbf;
 border: none;
-fill: #f4f4fd;
+fill: #404bbf;
 }
 
 .agreement-checkbox-link {
